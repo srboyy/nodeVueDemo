@@ -28,6 +28,9 @@
 
 ``` bash
 # install dependencies
+git clone https://github.com/srboyy/nodeVueDemo.git
+
+# install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
