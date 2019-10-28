@@ -36,11 +36,22 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+# //启动服务器
+cd server 
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# //启动服务器
+node app.js 
+
+# 显示如下
+    console.log('--------------');
+    console.log('数据库登录成功-');
+    console.log('--------------');
+
+# 打开浏览器
+localhost:8080
+
+
+
 ```
 
 
