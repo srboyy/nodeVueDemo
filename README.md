@@ -20,14 +20,14 @@
   * app.js    //接口文件
 
 
-# test
+# 下载与安装
 
-> A Vue.js project
+> git clone 到本地
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# git clone
 git clone https://github.com/srboyy/nodeVueDemo.git
 
 # install dependencies
